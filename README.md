@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tejas Wadiwala (TJ) 
-- 👀 I’m a Software Developer @ SSENSE
+- 👀 I’m a Product Developer @ Myplanet
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on projects involving blockchain
 - 📫 How to reach me tejaswadiwala@gmail.com
