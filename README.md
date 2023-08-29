@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Tejas Wadiwala (TJ)
 
-I'm an experienced Product Developer 👨‍💻 passionate about crafting dynamic web experiences. 
+I'm an experienced Software Developer 👨‍💻 passionate about crafting dynamic web experiences. 
 
 🛒 E-commerce enthusiast @ Orium
 📫 Reach me at tejaswadiwala@gmail.com
